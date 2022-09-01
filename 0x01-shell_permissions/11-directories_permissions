@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 755555555555555555555555555555555555555555555555555555555 0x01-shell_permissions
+find 0x01-shell_permissions -type d chmod 755
