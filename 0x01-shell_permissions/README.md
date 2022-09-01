@@ -8,3 +8,4 @@
 7 - Add execute permissions to owner, group owner and other users
 8 - Add all permissions to other users only
 9 - Set permissions to -rwxr-x-wx
+10 - Mirror permissions
