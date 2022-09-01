@@ -6,3 +6,4 @@
 5 - Add execute permission to file owner only
 6 - Add execute permission to owner & group owner, and read permissions to other users
 7 - Add execute permissions to owner, group owner and other users
+8 - Add all permissions to other users only
