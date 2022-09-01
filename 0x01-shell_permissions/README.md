@@ -9,3 +9,4 @@
 8 - Add all permissions to other users only
 9 - Set permissions to -rwxr-x-wx
 10 - Mirror permissions
+11 - Set execute permissions for all, for subdirectories only
