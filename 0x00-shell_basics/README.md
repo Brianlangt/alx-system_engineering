@@ -4,3 +4,4 @@
 3 - Script to list all contents in long format
 4 - Script to list all files, including hidden files
 5 - Script to list all files, with user and group IDs displayed numerically
+6 - Script to creat parent & child directory
