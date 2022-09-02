@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -iname "*html*" -exec cp -u . /alx-system_engineering-devops {} +
+find . -type f -name "*.html*" -exec cp -R -u -p /0x00-shell_basics /alx-system_engineering-devops {} +
