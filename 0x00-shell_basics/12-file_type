@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./tmp -type f -exec file {} +
+find ./tmp -type f -exec file -s {} +
