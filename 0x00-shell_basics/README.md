@@ -5,3 +5,5 @@
 4 - Script to list all files, including hidden files
 5 - Script to list all files, with user and group IDs displayed numerically
 6 - Script to creat parent & child directory
+7 - Script to move file from one directory to another
+8 - Script to delet a file
