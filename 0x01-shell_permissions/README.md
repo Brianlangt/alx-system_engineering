@@ -10,3 +10,4 @@
 9 - Set permissions to -rwxr-x-wx
 10 - Mirror permissions
 11 - Set execute permissions for all, for subdirectories only
+12 - Create directory with set permissions
