@@ -1,1 +1,2 @@
 #!/bin/bash
+find /etc/passwd -iname 'passwd' -exec cat {} + | grep -wv bin
